@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/Commander242/OhmsLawPrivacyPolicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This policy applies to all information relating to the EE Toolkit app for iPhone or any other devices or platforms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Information We Collect
 
-### Markdown
+We **do not** collect any user data. All data is stored on your device, and is never uploaded to any internet services.  
+In future updates, we may collect annonymous statitics, such as the percentage of users who use particaular features, to improve the app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Information Usage
 
-```markdown
-Syntax highlighted code block
+We **do not** share any personal information to outside parties.  
+At any time, you may erase all data you've created within EE Toolkit in the settings pageby clicking the "Reset All Settings" button.
 
-# Header 1
-## Header 2
-### Header 3
+## Your Consent
 
-- Bulleted
-- List
+By using our app, you consent to our privacy policy.
 
-1. Numbered
-2. List
+## Contacting Us
 
-**Bold** and _Italic_ and `Code` text
+If you have questions regarding this privacy policy, you may email @gmail.com.
 
-[Link](url) and ![Image](src)
-```
+## Changes To This Policy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Commander242/OhmsLawPrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- October XX, 2018: First Published
