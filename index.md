@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This policy applies to all information relating to the EE Toolkit app for iPhone or any other devices or platforms.
+This policy applies to all information relating to the EE Number Cruncher app for iPhone or any other devices or platforms.
 
 ## Information We Collect
 
@@ -10,7 +10,7 @@ In future updates, we may collect annonymous statitics, such as the percentage o
 ## Information Usage
 
 We **do not** share any personal information to outside parties.  
-At any time, you may erase all data you've created within EE Toolkit in the settings pageby clicking the "Reset All Settings" button.
+At any time, you may erase all data you've created within EE Number Cruncher in the settings page by clicking the "Reset All Settings" button.
 
 ## Your Consent
 
@@ -18,10 +18,10 @@ By using our app, you consent to our privacy policy.
 
 ## Contacting Us
 
-If you have questions regarding this privacy policy, you may email @gmail.com.
+If you have questions regarding this privacy policy, you may email **EENumberCruncher@gmail.com**.
 
 ## Changes To This Policy
 
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
-- October XX, 2018: First Published
+- October 14, 2018: First Published
